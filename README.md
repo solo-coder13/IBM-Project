@@ -19,3 +19,12 @@ To set up the project on your local machine, follow these steps:
    ```bash
    git clone https://github.com/solo-coder13/IBM-Project.git
    cd speech-to-text-translation
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- Thank you to the contributors of open-source libraries and APIs that made this project possible.
+- Special thanks to my project members 
